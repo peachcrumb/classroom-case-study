@@ -26,8 +26,8 @@ During the first interview, the teacher stated that adding the Instagram compone
 * 2d: At 7:16, you can see the teacher struggling to not be talked over by the students. The collective volume steadily rises, and you can see conversations happening in the background which aren’t necessarily picked up from the teacher’s microphone. At 7:40, she voices her displeasure by mentioning to the class that she can’t hear a student speaking, implying that they’re too loud. This is slightly effective, as that student can be heard by the viewer after a couple seconds.  
 * 3d: At 53:46, the teacher asks the class what’s so funny and to explain what’s happening after the discussions and assignment tasks wrap up. She prods the collective thoughts to figure out why they were laughing so much, and how it applied to what they were learning. Then, at 56:22 she chooses a student to present what they ‘posted’ to their instagram page and to explain why it’s relevant to the discussion. 
 
-
 ## 3b. Justification of examples (see 3a) 
+
 
 ## 4a. Student Engagement
 Despite the overall little respect the students showed the teacher, it seemed like they were engaged due to using Instagram to frame their experience with the lesson’s content for To Kill a Mockingbird analysis. They seemed excited to roleplay as users responding to images or events related to the content from the lecture.
