@@ -21,6 +21,10 @@ The teacher believed she communicated adequately to the students the point and e
 During the first interview, the teacher stated that adding the Instagram component would make the students a lot more engaged than they would have been in the lesson without it. In the post-interview, I like that she mentioned how students were able to relate the lesson topic with their own lives, and how she was able to "see into their worlds" by using social media as a way to distribute a classroom task.  
 
 ## 3a. Two examples of Danielson's components 
+* 2b: At 9:13, the teacher encourages students to have questions about each ‘post’ prepared as she explains the assignment. She also answers a student’s questions about the technicalities of the task at 11:52, and does it by approaching the student’s desk area to actively listen to their concerns and passionately explain what needs to be done.  
+* 2d: At 7:16, you can see the teacher struggling to not be talked over by the students. The collective volume steadily rises, and you can see conversations happening in the background which aren’t necessarily picked up from the teacher’s microphone. At 7:40, she voices her displeasure by mentioning to the class that she can’t hear a student speaking, implying that they’re too loud. This is slightly effective, as that student can be heard by the viewer after a couple seconds.  
+* 3d: At 53:46, the teacher asks the class what’s so funny and to explain what’s happening after the discussions and assignment tasks wrap up. She prods the collective thoughts to figure out why they were laughing so much, and how it applied to what they were learning. Then, at 56:22 she chooses a student to present what they ‘posted’ to their instagram page and to explain why it’s relevant to the discussion. 
+
 
 ## 3b. Justification of examples (see 3a) 
 
