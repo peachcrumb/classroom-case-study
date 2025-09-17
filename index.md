@@ -1,7 +1,7 @@
 ## Classroom Layout
 ![](/extras/class_layout.png)
 
-referencing [](https://www.youtube.com/watch?v=CKjcLxONIHA)
+referencing [https://www.youtube.com/watch?v=CKjcLxONIHA](https://www.youtube.com/watch?v=CKjcLxONIHA)
 
 ## 1b. 5 elements from the Physical Space of the classroom 
 In the 9th grade ELA classroom, there’s a smartboard connected to the teacher’s laptop. Social media is also used as a reference, which obviously revolves around technology. There is a printer, a microphone/camera setup, and the room’s router(?) hanging from the ceiling. There are also outdated monitors on the side of the room. The walls are mostly barren, with minimal postings on the bulletin board and whiteboards on each side of the smartboard. Students are grouped by 2 desks per cluster facing eachother. The students can read from the contents of the smartboard.  
@@ -21,12 +21,35 @@ The teacher believed she communicated adequately to the students the point and e
 ## 2c. Statement from each of the interviews 
 During the first interview, the teacher stated that adding the Instagram component would make the students a lot more engaged than they would have been in the lesson without it. In the post-interview, I like that she mentioned how students were able to relate the lesson topic with their own lives, and how she was able to "see into their worlds" by using social media as a way to distribute a classroom task.  
 
-## 3a. Two examples of Danielson's components 
+## 3a. Two examples of Danielson's components  
 * 2b: At 9:13, the teacher encourages students to have questions about each ‘post’ prepared as she explains the assignment. She also answers a student’s questions about the technicalities of the task at 11:52, and does it by approaching the student’s desk area to actively listen to their concerns and passionately explain what needs to be done.  
 * 2d: At 7:16, you can see the teacher struggling to not be talked over by the students. The collective volume steadily rises, and you can see conversations happening in the background which aren’t necessarily picked up from the teacher’s microphone. At 7:40, she voices her displeasure by mentioning to the class that she can’t hear a student speaking, implying that they’re too loud. This is slightly effective, as that student can be heard by the viewer after a couple seconds.  
-* 3d: At 53:46, the teacher asks the class what’s so funny and to explain what’s happening after the discussions and assignment tasks wrap up. She prods the collective thoughts to figure out why they were laughing so much, and how it applied to what they were learning. Then, at 56:22 she chooses a student to present what they ‘posted’ to their instagram page and to explain why it’s relevant to the discussion. 
+* 3d: At 53:46, the teacher asks the class what’s so funny and to explain what’s happening after the discussions and assignment tasks wrap up. She prods the collective thoughts to figure out why they were laughing so much, and how it applied to what they were learning. Then, at 56:22 she chooses a student to present what they ‘posted’ to their instagram page and to explain why it’s relevant to the discussion. This student that presented answered all of the related questions as thoroughly and accurately as they could, as well as taking the time to explain any areas they initially didn't understand or needed some clarification to help with context.  
 
-## 3b. Justification of examples (see 3a) 
+## 3b. Justification of examples (see 3a)  
+
+### 2b  
+* 9:13 – This is an example of establishing a culture for learning because:  
+    * The teacher “expects effort” from the students  
+    * and “insists on precise use of language by students”.  
+* 11:52 – At this point, the student with questions:  
+    * Was “ willing to devote energy to the task at hand”.  
+    * This shows that she was “tak\[ing] initiative in improving the quality of \[her] work”.  
+### 2d  
+* 7:16 – The “student misbehavior is very minor”  
+* The teacher opted to not attempt to yell over the volume because:  
+    * She wanted to maintain a “business-like and productive \[atmosphere], without being authoritarian”.  
+* 7:40 – Once the teacher has had enough, she:  
+    * Makes “classroom, standards of conduct clear to students”  
+        * Does so in a way that “Even when their behavior is being corrected, students feel respected; their dignity is not undermined”.  
+### 3d  
+* 53:46 – By asking the class these questions,  
+    * “Students are invited to assess their own work”  
+    * They explain the triggers of excessive laughter over the output of the assignment or discussion topic.  
+    * Here you see “The teacher paying close attention to evidence of student understanding”.  
+* 56:22 – This example sees:
+    * The “Student assessing their own work against established criteria”  
+    * and “monitoring their own understanding”.
 
 
 ## 4a. Student Engagement
