@@ -1,7 +1,7 @@
 ## Classroom Layout
 ![](/extras/class_layout.png)
 
-referencing [](http://hets.leeward.hawaii.edu/9th_ela_instagram.html)
+referencing [](https://www.youtube.com/watch?v=CKjcLxONIHA)
 
 ## 1b. 5 elements from the Physical Space of the classroom 
 In the 9th grade ELA classroom, there’s a smartboard connected to the teacher’s laptop. Social media is also used as a reference, which obviously revolves around technology. There is a printer, a microphone/camera setup, and the room’s router(?) hanging from the ceiling. There are also outdated monitors on the side of the room. The walls are mostly barren, with minimal postings on the bulletin board and whiteboards on each side of the smartboard. Students are grouped by 2 desks per cluster facing eachother. The students can read from the contents of the smartboard.  
