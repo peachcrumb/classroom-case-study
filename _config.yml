@@ -1,0 +1,8 @@
+title: 9th Grade ELA Case Study
+description: Fall 2025 ED 285 Assignment 5.1-5.3
+google_analytics:
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
