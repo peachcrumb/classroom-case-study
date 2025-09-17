@@ -35,6 +35,7 @@ During the first interview, the teacher stated that adding the Instagram compone
 * 11:52 – At this point, the student with questions:  
     * Was “ willing to devote energy to the task at hand”.  
     * This shows that she was “tak\[ing] initiative in improving the quality of \[her] work”.  
+
 ### 2d  
 * 7:16 – The “student misbehavior is very minor”  
 * The teacher opted to not attempt to yell over the volume because:  
@@ -42,6 +43,7 @@ During the first interview, the teacher stated that adding the Instagram compone
 * 7:40 – Once the teacher has had enough, she:  
     * Makes “classroom, standards of conduct clear to students”  
         * Does so in a way that “Even when their behavior is being corrected, students feel respected; their dignity is not undermined”.  
+        
 ### 3d  
 * 53:46 – By asking the class these questions,  
     * “Students are invited to assess their own work”  
