@@ -1,4 +1,5 @@
-![](/extras/image.png)
+## Classroom Layout
+![](/extras/class_layout.png)
 
 referencing [](http://hets.leeward.hawaii.edu/9th_ela_instagram.html)
 
